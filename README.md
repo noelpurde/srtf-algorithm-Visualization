@@ -2,6 +2,8 @@
 
 This repository demonstrates the **Shortest Remaining Time First (SRTF)** CPU scheduling algorithm. It includes a **C implementation** to calculate process schedules based on arrival and burst times, and a **Python visualization** (using Matplotlib) to create an animated Gantt chart that shows the execution of processes over time.
 
+![SRTF Animation](./animacioni_srtf.gif)
+
 ## **Features**
 
 Includes a **C program** to simulate SRTF scheduling and calculate key metrics for each process (completion time, waiting time, and turnaround time) and a **Python animation** that dynamically visualizes the execution of processes using the output from the C program.
